@@ -1,2 +1,2 @@
 # Loan-Prediction
-First Project on Github
+See the LoanPrediction.ipynb jupyter notebook file
